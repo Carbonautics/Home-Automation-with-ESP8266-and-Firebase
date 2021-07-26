@@ -60,7 +60,7 @@ Appliance state changes to whatever was fetched from the cloud. The state of app
 
 - The MCU fetches states data from the cloud and sets the appliances to that state, again depends on the manual switch (switch takes precedence over cloud for redundancy purposes).
 
-<br/>
+[_Actual Code_](https://github.com/Carbonautics/Home-Automation-with-ESP8266-and-Firebase/blob/main/src/main.cpp)
 
 ## Project Status
 
